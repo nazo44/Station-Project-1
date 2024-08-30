@@ -12,8 +12,3 @@ Linear Regression is a suitable choice for this problem because:
 - The relationship between advertising and sales is likely linear.
 - The model is easy to interpret and understand.
 - The model provides good performance on the dataset.
-Usage
-To use the model for prediction:
-1. Load the saved model (if you saved it).
-2. Provide the advertising budget values (TV, Radio, Newspaper) as input.
-3. The model will predict the sales for those advertising levels.
