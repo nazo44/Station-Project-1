@@ -12,3 +12,5 @@ Linear Regression is a suitable choice for this problem because:
 - The relationship between advertising and sales is likely linear.
 - The model is easy to interpret and understand.
 - The model provides good performance on the dataset.
+
+Thank you
